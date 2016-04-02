@@ -1,24 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>颜艺公社</title>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2016-04-02T10:30:42.343Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://vanhfsail.site/"/>
+  <updated>2016-04-02T12:43:08.611Z</updated>
+  <id>http://vanhfsail.site/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>颜艺学长</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>颜艺公社的正式启用</title>
+    <link href="http://vanhfsail.site/2016/04/02/%E9%A2%9C%E8%89%BA%E5%85%AC%E7%A4%BE%E7%9A%84%E6%AD%A3%E5%BC%8F%E5%90%AF%E7%94%A8/"/>
+    <id>http://vanhfsail.site/2016/04/02/颜艺公社的正式启用/</id>
+    <published>2016-04-02T11:55:00.000Z</published>
+    <updated>2016-04-02T12:43:08.611Z</updated>
+    
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;颜艺学长&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;今天弄了一天终于把我的个站弄出来了。&lt;/p&gt;
+&lt;p&gt;早上起床的时候突然想到昨天在网上搜集资料的时候看到很多大牛们都有用自己的个人站点，想想有自己的主页确实能放一些自己的东西，也的确不错。&lt;/p&gt;
+&lt;p&gt;之前有用&lt;strong&gt;SAE&lt;/strong&gt;和&lt;strong&gt;wordpress&lt;/strong&gt;搭建过自己的个人博客，不过随着SAE开始步入收费阶段，而且自己当时也是一时的脑热所以也就废弃了，今天查阅了资料后发现现在都开始用&lt;strong&gt;Github&lt;/strong&gt;和&lt;strong&gt;Hexo&lt;/strong&gt;来搭建博客所以也来试试水。&lt;/p&gt;
+&lt;p&gt;中午午饭后正式开始，在网上按照前人的教程步骤一步一步弄下去，后来发现只能在本地的Server跑起来，部署到Github后却是404页面，我想了很久也没想通为什么，百度了后回答都是说可能是我填的Github仓库地址不对，然而我是填对的。&lt;/p&gt;
+&lt;p&gt;于是决定放弃，把仓库删除了。&lt;/p&gt;
+&lt;p&gt;接着又按照Github加&lt;strong&gt;Jekyll&lt;/strong&gt;的方式搭建博客成功了，和我之前的一对比我才想起来之前是没有Launch automatic page generator.&lt;/p&gt;
+&lt;p&gt;想了想已经花了一下午也不在乎多花一些时间，于是又把Jekyll搭建的给删了，然后重新部署Hexo，终于是成功了。&lt;/p&gt;
+&lt;p&gt;一波三折。&lt;/p&gt;
+&lt;p&gt;希望以后能多写一些东西，好好利用起来吧。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;颜艺学长&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;今天弄了一天终于把我的个站弄出来了。&lt;/p&gt;
+&lt;p&gt;早上起床的时候突然想到昨天在网上搜集资料的时候看到很多大牛们都有用自己的个人站点，想想有自己的主页确实能放一些自己的东西，也的确不错。&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="公告" scheme="http://vanhfsail.site/categories/%E5%85%AC%E5%91%8A/"/>
+    
+    
+      <category term="颜艺公社" scheme="http://vanhfsail.site/tags/%E9%A2%9C%E8%89%BA%E5%85%AC%E7%A4%BE/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/04/02/hello-world/"/>
-    <id>http://yoursite.com/2016/04/02/hello-world/</id>
+    <link href="http://vanhfsail.site/2016/04/02/hello-world/"/>
+    <id>http://vanhfsail.site/2016/04/02/hello-world/</id>
     <published>2016-04-02T10:30:42.343Z</published>
     <updated>2016-04-02T10:30:42.343Z</updated>
     
